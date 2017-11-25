@@ -2,7 +2,7 @@
 
 2. Get beta code from the console from https://console.improbable.io/projects
 
-3. In spatialos.json, change the name to the beat code from step 2.
+3. In spatialos.json, change the name to the beta code from step 2.
 
 4. Open cmd and change location to the building folder.
 
