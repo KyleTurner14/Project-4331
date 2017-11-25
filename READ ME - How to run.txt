@@ -1,0 +1,15 @@
+1. Make sure spatialOS is installed correctly on your machine & you have an account.
+
+2. Get beta code from the console from https://console.improbable.io/projects
+
+3. In spatialos.json, change the name to the beat code from step 2.
+
+4. Open cmd and change location to the building folder.
+
+5. Run: spatial worker build
+
+6. Run: spatial worker codeine
+
+7.a Run: spatial local launch default_launch.json
+
+7.b Press control+c to stop the local deploy
